@@ -17,3 +17,6 @@ logs.txt
 # backups de credencial
 .env.bak*
 .env.*
+
+# o exemplo (sem segredos) DEVE ser versionado
+!.env.exemplo
