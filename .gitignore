@@ -13,3 +13,7 @@ logs.txt
 
 # Config de preview local
 .claude/
+
+# backups de credencial
+.env.bak*
+.env.*
